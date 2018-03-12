@@ -1,0 +1,24 @@
+GameID,Round,Winning_Team,W1Q,W2Q,W3Q,W4Q,Winning_Total,Winning_Margin,Round,Losing_Team,L1Q,L2Q,L3Q,L4Q,Losing_Total,Losing_Margin,WLead1Q,WLead2Q,WLead3Q,WLead4Q
+1,1,Carlton,13,6,3,0,22,8,1,Collingwood,6,7,0,1,14,-8,7,-1,3,-1
+2,1,Melbourne,8,1,18,18,45,6,1,GWS,12,6,14,7,39,-6,-4,-5,4,11
+3,1,Brisbane,8,1,15,7,31,12,1,Adelaide,0,19,0,0,19,-12,8,-18,15,7
+4,1,Western Bulldogs,20,14,2,13,49,26,1,Fremantle,0,0,21,2,23,-26,20,14,-19,11
+5,2,Carlton,4,9,12,5,30,21,2,GWS,6,0,2,1,9,-21,-2,9,10,4
+6,2,Melbourne,7,25,14,10,56,32,2,Adelaide,6,6,6,6,24,-32,1,19,8,4
+7,2,Fremantle,18,7,8,7,40,13,2,Collingwood,12,0,7,8,27,-13,6,7,1,-1
+8,2,Bulldogs,1,25,0,7,33,9,2,Brisbane,2,1,7,14,24,-9,-1,24,-7,-7
+9,3,Adelaide,7,7,14,13,41,7,3,Western Bulldogs,13,6,14,1,34,-7,-6,1,0,12
+10,3,Brisbane,1,7,12,20,40,22,3,Carlton,0,2,7,9,18,-22,1,5,5,11
+11,3,GWS,1,17,0,30,48,13,3,Collingwood,15,1,13,6,35,-13,-14,16,-13,24
+12,3,Fremantle,0,12,12,12,36,5,3,Melbourne,11,0,19,1,31,-5,-11,12,-7,11
+13,4,Western Bulldogs,10,34,13,29,86,73,4,Carlton,0,0,13,0,13,-73,10,34,0,29
+14,4,Brisbane,0,7,7,8,22,7,4,Fremantle,1,1,7,6,15,-7,-1,6,0,2
+15,4,Collingwood,0,20,20,18,58,34,4,Melbourne,14,0,8,2,24,-34,-14,20,12,16
+17,5,Melbourne,15,3,10,6,34,6,5,Brisbane,0,7,7,14,28,-6,15,-4,3,-8
+18,5,GWS,12,13,13,1,39,18,5,Fremantle,6,2,7,6,21,-18,6,11,6,-5
+19,5,Adelaide,14,25,0,16,55,35,5,Carlton,10,6,3,1,20,-35,4,19,-3,15
+20,5,Western Bulldogs,22,8,13,6,49,8,5,Collingwood,6,12,8,15,41,-8,16,-4,5,-9
+21,6,Adelaide,18,6,7,9,40,4,6,Fremantle,8,8,14,6,36,-4,10,-2,-7,3
+22,6,Collingwood,28,0,13,12,53,14,6,Brisbane,14,2,2,21,39,-14,14,-2,11,-9
+23,6,GWS,8,20,0,18,46,18,6,Western Bulldogs,14,6,7,1,28,-18,-6,14,-7,17
+24,6,Melbourne,39,8,3,7,57,35,6,Carlton,1,12,1,8,22,-35,38,-4,2,-1
