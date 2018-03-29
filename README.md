@@ -6,4 +6,6 @@ Initial commit n=23 games up to end of round 6.
 
 Excludes drawn game [GWS v Adelaide](http://www.afl.com.au/news/2018-02-25/aflw-match-report-gws-crows-in-dramatic-draw) (game 16, 19v19)
 
-Second commit n=27 games to end of reygular season.
+Second commit n=27 games to end of regular season.
+
+Third commit includes Grand Final (game 29).
